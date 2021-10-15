@@ -14,7 +14,8 @@ Project Objective
 
 <br>
 Install Python Packages
---------------------------
+------------------------------
+
 `pip3 install -r requirements.txt`
 <br>
 
