@@ -1,4 +1,4 @@
-<center>Python Slack Bot 🐍</center> 
+Python Slack Bot 🐍 
 ===================================
 
 Project Objective
